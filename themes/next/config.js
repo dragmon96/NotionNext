@@ -22,7 +22,7 @@ const CONFIG = {
   MENU_HOME: true, // 显示首页
   MENU_CATEGORY: true, // 显示分类
   MENU_TAG: true, // 显示标签
-  MENU_ARCHIVE: true, // 显示归档
+  MENU_ARCHIVE: false, // 显示归档
   MENU_SEARCH: true, // 显示搜索
 
   WIDGET_TO_TOP: true, // 是否显示回顶
